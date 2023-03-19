@@ -4,13 +4,13 @@ body {
     text-align: center;
 }
 
-h1 {
+.title {
     font-weight: normal;
     font-size: 50px;
     color: white;
 }
 
-p {
+.anchor {
     color: aquamarine;
     font-size: 16px;
 }
