@@ -20,6 +20,21 @@ body {
     font-size: 42px;
 }
 
+.travel-guide {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.travel-guide img {
+    margin-top: 2rem;
+}
+
+.travel-guide h2{
+    color: white;
+}
+
 p {
     font-size: 21px;
     color: gray;
